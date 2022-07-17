@@ -1,6 +1,6 @@
 # ToxicBomber
 # Tool : Unlimited SMS Bombing In Bangladeshi Numbers
-#Author : Anik hhasun
+#Author : Anik hasun
 # Coder : Hyperxyz
 
 import time
